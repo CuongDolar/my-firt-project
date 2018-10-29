@@ -1,0 +1,36 @@
+1
+00:00:04,966 --> 00:00:09,256
+Chào mừng bạn đến khóa học này trên CSS3.
+
+2
+00:00:09,256 --> 00:00:10,846
+Tên tôi là Michael Palermo.
+
+3
+00:00:10,846 --> 00:00:15,656
+Tôi không thể chờ đợi để cho bạn thấy tất cả những điều tuyệt vời mà bạn có thể làm với CSS3,
+
+4
+00:00:15,656 --> 00:00:21,356
+nó sẽ giúp bạn thiết kế và phong cách trang web của bạn.
+
+5
+00:00:21,356 --> 00:00:30,115
+Module này đóng vai trò như một giới thiệu về toàn bộ khóa học.
+
+6
+00:00:30,115 --> 00:00:36,026
+Trong mô-đun này, trước hết chúng ta sẽ xem xét một cái nhìn tổng quan tất nhiên, những gì chúng ta sẽ được làm,
+
+7
+00:00:36,026 --> 00:00:41,185
+bạn lại là người phù hợp với khóa học này, tiếp theo là một sự xem xét tăng tốc
+
+8
+00:00:41,185 --> 00:00:47,515
+công nghệ CSS nói chung và sau đó chúng ta sẽ có một bản tóm tắt.
+
+9
+00:00:47,515 --> 00:00:51,000
+( Khoảng lặng )
+

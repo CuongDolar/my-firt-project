@@ -1,0 +1,40 @@
+0
+00:00:03,866 --> 00:00:04,966
+Hi there.
+
+1
+00:00:04,966 --> 00:00:09,256
+Welcome to this course on CSS3.
+
+2
+00:00:09,256 --> 00:00:10,846
+My name is Michael Palermo.
+
+3
+00:00:10,846 --> 00:00:15,656
+I can't wait to show you all the cool things that you can do with CSS3,
+
+4
+00:00:15,656 --> 00:00:21,356
+it's going to help you to design and style your websites.
+
+5
+00:00:21,356 --> 00:00:30,115
+This module serves as an introduction to the entire course.
+
+6
+00:00:30,115 --> 00:00:36,026
+In this module, first we're going to consider a course overview, what are we going to be doing,
+
+7
+00:00:36,026 --> 00:00:41,185
+are you the right person for this course, followed by an accelerated review
+
+8
+00:00:41,185 --> 00:00:47,515
+of CSS technologies in general and then we're going to have a summary.
+
+9
+00:00:47,515 --> 00:00:51,000
+( Silence )
+
